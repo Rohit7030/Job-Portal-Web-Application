@@ -40,9 +40,7 @@ Built with a responsive UI, secure authentication, and real-time database capabi
            To install, run `npm install` in your terminal.
 
 - step 3 : Create a .env file in the root directory and add
-           <pre> <code>```VITE_SUPABASE_URL=
-                          VITE_SUPABASE_ANON_KEY=
-                          VITE_CLERK_PUBLISHABLE_KEY= ```</code> </pre>
+           <pre> <code>```VITE_SUPABASE_URL=your_supabase_url VITE_SUPABASE_ANON_KEY=your_anon_key VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key ``` </code> </pre>
 
 - step 4 : Run the Development Server using `npm run dev`
 
